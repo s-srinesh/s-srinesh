@@ -1,3 +1,6 @@
+# 💫 About Me:
+🌱 I’m currently learning Artificial Intelligence and Data Science<br>👀 I’m interested in Full stack,Web Application. 😎
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srinesh-s-798452259) 
